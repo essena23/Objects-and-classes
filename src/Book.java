@@ -19,6 +19,7 @@ public class Book {
     }
 
     public int getYearPublish() {
+
         return this.yearPublish;
     }
 
